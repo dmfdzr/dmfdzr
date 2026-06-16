@@ -46,13 +46,13 @@ I enjoy turning ideas into interactive websites with modern UI, smooth user expe
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dimasfadly01&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasfadly01&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmfdzr&theme=tokyonight&hide_border=true" />
 
 <br />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasfadly01&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -62,7 +62,7 @@ I enjoy turning ideas into interactive websites with modern UI, smooth user expe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dimasfadly01/dimasfadly01/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/dmfdzr/dmfdzr/output/github-contribution-grid-snake.svg" />
 
 </div>
 
