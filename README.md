@@ -105,12 +105,17 @@ I enjoy turning ideas into clean interfaces, smooth user experiences, and scalab
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=dmfdzr&theme=dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=dmfdzr&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -134,10 +139,6 @@ I enjoy turning ideas into clean interfaces, smooth user experiences, and scalab
 
 <a href="mailto:dimasfadly01@gmail.com">
   <img src="https://img.shields.io/badge/Email-dimasfadly01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/dmfdzr">
-  <img src="https://img.shields.io/badge/GitHub-dmfdzr-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
