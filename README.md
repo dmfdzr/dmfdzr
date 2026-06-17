@@ -1,21 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14b8a6,100:0f172a&height=190&section=header&text=Dimas%20Abidzar%20Fadly&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Frontend+Engineer;TypeScript+%7C+JavaScript+%7C+Next.js;Tailwind+CSS+%7C+shadcn%2Fui;Supabase+%7C+PostgreSQL+%7C+Prisma;Building+modern+and+responsive+web+apps" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=190&section=header&text=Dimas%20Abidzar%20Fadly&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <br />
+
+<h2>Frontend Engineer</h2>
+
+<p>
+  Building modern, responsive, and user-friendly web applications with a focus on clean UI, performance, and scalable frontend architecture.
+</p>
+
 <br />
 
 <a href="https://github.com/dmfdzr">
-  <img src="https://img.shields.io/badge/GitHub-dmfdzr-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-dmfdzr-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/dimasabidzarfadly">
+  <img src="https://img.shields.io/badge/LinkedIn-Dimas%20Abidzar%20Fadly-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/6285727914053">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://bzar-here.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-bzar--here.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 <a href="mailto:dimasfadly01@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=dmfdzr&style=for-the-badge&color=22c55e" />
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=dmfdzr&style=for-the-badge&color=2563eb" />
 
 </div>
 
@@ -47,9 +67,9 @@ I enjoy turning ideas into clean interfaces, smooth user experiences, and scalab
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive%20Design-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%20Components-14B8A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-020617?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20Design-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%20Components-38BDF8?style=for-the-badge&logoColor=black" />
 
 <br />
 <br />
@@ -98,40 +118,48 @@ I enjoy turning ideas into clean interfaces, smooth user experiences, and scalab
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" />
 
 <br />
 <br />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=dmfdzr&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dmfdzr&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <div align="center">
+
+<a href="https://linkedin.com/in/dimasabidzarfadly">
+  <img src="https://img.shields.io/badge/LinkedIn-Dimas%20Abidzar%20Fadly-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/6285727914053">
+  <img src="https://img.shields.io/badge/WhatsApp-085727914053-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://bzar-here.vercel.app">
+  <img src="https://img.shields.io/badge/Personal%20Web-bzar--here.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
 
 <a href="mailto:dimasfadly01@gmail.com">
   <img src="https://img.shields.io/badge/Email-dimasfadly01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/dmfdzr">
-  <img src="https://img.shields.io/badge/GitHub-dmfdzr-181717?style=for-the-badge&logo=github" />
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14b8a6,100:22c55e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer" />
 
 </div>
