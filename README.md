@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=180&section=header&text=Dimas%20Abidzar%20Fadly&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14b8a6,100:0f172a&height=190&section=header&text=Dimas%20Abidzar%20Fadly&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+clean+and+responsive+websites;UI-focused+developer+with+backend+awareness" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Frontend+Engineer;TypeScript+%7C+JavaScript+%7C+Next.js;Tailwind+CSS+%7C+shadcn%2Fui;Supabase+%7C+PostgreSQL+%7C+Prisma;Building+modern+and+responsive+web+apps" />
 
 <br />
+<br />
 
-<a href="https://github.com/dimasfadly01">
-  <img src="https://img.shields.io/badge/GitHub-dimasfadly01-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/dmfdzr">
+  <img src="https://img.shields.io/badge/GitHub-dmfdzr-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:dimasfadly01@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=dmfdzr&style=for-the-badge&color=22c55e" />
 
 </div>
 
@@ -20,15 +23,16 @@
 
 ## 👋 About Me
 
-Hi, I'm **Dimas Abidzar Fadly**, a passionate **Frontend Engineer** focused on building responsive, clean, and user-friendly web interfaces.
+Hi, I'm **Dimas Abidzar Fadly**, a passionate **Frontend Engineer** focused on building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into interactive websites with modern UI, smooth user experience, and maintainable code. Because apparently making buttons look good and actually work is still a rare civilization achievement.
+I enjoy turning ideas into clean interfaces, smooth user experiences, and scalable web products. My main focus is frontend development, but I also work with backend tools, databases, and deployment workflows to build more complete applications.
 
 - 🎯 Focused on **Frontend Development**
-- 💻 Interested in **React, Next.js, Tailwind CSS, and UI Design**
-- 🎨 Comfortable working with **Figma to Code**
-- 🧠 Learning more about **clean code, performance, and scalable web apps**
-- 🚀 Open to collaboration on web development projects
+- ⚡ Building with **TypeScript, JavaScript, Next.js, and Tailwind CSS**
+- 🎨 Creating clean UI with **shadcn/ui**
+- 🧩 Working with **Supabase, PostgreSQL, and Prisma ORM**
+- 🚀 Deploying projects with **Vercel**
+- 🧠 Learning more about **clean code, performance, and scalable architecture**
 
 ---
 
@@ -36,7 +40,55 @@ I enjoy turning ideas into interactive websites with modern UI, smooth user expe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,bootstrap,php,mysql,figma,git,github,vscode" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20Design-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%20Components-14B8A6?style=for-the-badge" />
+
+<br />
+<br />
+
+### Backend, Database & Deployment
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,prisma,vercel" />
+
+<br />
+<br />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Modern UI</h3>
+      <p>Clean, responsive, and user-friendly interfaces with Tailwind CSS and shadcn/ui.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Web Apps</h3>
+      <p>Interactive and scalable applications using Next.js and TypeScript.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Full-Stack Flow</h3>
+      <p>Frontend connected with Supabase, PostgreSQL, and Prisma ORM.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -46,23 +98,17 @@ I enjoy turning ideas into interactive websites with modern UI, smooth user expe
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmfdzr&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 <br />
+<br />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</div>
+<br />
+<br />
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dmfdzr/dmfdzr/output/github-contribution-grid-snake.svg" />
+<img src="https://streak-stats.demolab.com?user=dmfdzr&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -76,8 +122,8 @@ I enjoy turning ideas into interactive websites with modern UI, smooth user expe
   <img src="https://img.shields.io/badge/Email-dimasfadly01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/dimasfadly01">
-  <img src="https://img.shields.io/badge/GitHub-dimasfadly01-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/dmfdzr">
+  <img src="https://img.shields.io/badge/GitHub-dmfdzr-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -86,6 +132,6 @@ I enjoy turning ideas into interactive websites with modern UI, smooth user expe
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:22c55e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14b8a6,100:22c55e&height=120&section=footer" />
 
 </div>
