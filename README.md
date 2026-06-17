@@ -7,7 +7,7 @@
 <h2>Frontend Engineer</h2>
 
 <p>
-  I build modern, responsive, and user-friendly web applications with a focus on clean UI, performance, and scalable frontend architecture.
+  Building modern, responsive, and user-friendly web applications with a focus on clean UI, performance, and scalable frontend architecture.
 </p>
 
 <br />
@@ -22,13 +22,14 @@
 
 Hi, I'm **Dimas Abidzar Fadly**, a passionate **Frontend Engineer** focused on building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into clean interfaces, smooth user experiences, and scalable web products. My main focus is frontend development, but I also work with backend tools, databases, and deployment workflows to build more complete applications.
+I enjoy turning ideas into clean interfaces, smooth user experiences, and scalable web products. My main focus is frontend development, but I also work with backend tools, databases, deployment workflows, and AI-assisted development to build more complete applications.
 
 - 🎯 Focused on **Frontend Development**
 - ⚡ Building with **TypeScript, JavaScript, Next.js, and Tailwind CSS**
 - 🎨 Creating clean UI with **shadcn/ui**
 - 🧩 Working with **Supabase, PostgreSQL, and Prisma ORM**
 - 🚀 Deploying projects with **Vercel**
+- 🤖 Using **AI tools like Codex, GPT-5.5, and Gemini** to support coding, debugging, and development workflow
 - 🧠 Learning more about **clean code, performance, and scalable architecture**
 
 ---
@@ -54,6 +55,15 @@ I enjoy turning ideas into clean interfaces, smooth user experiences, and scalab
 ### Backend, Database & Deployment
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,prisma,vercel" />
+
+<br />
+<br />
+
+### AI Tools
+
+<img src="https://img.shields.io/badge/Codex-020617?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GPT--5.5-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=black" />
 
 <br />
 <br />
@@ -94,11 +104,6 @@ I enjoy turning ideas into clean interfaces, smooth user experiences, and scalab
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br />
-<br />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
