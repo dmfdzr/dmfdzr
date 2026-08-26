@@ -1,152 +1,39 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:38bdf8&height=190&section=header&text=Dimas%20Abidzar%20Fadly&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<br />
-
-<h2>Frontend Engineer</h2>
-
-<p>
-  Building modern, responsive, and user-friendly web applications with a focus on clean UI, performance, and scalable frontend architecture.
-</p>
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=dmfdzr&style=for-the-badge&color=2563eb" />
-
+  <h1>Dimas Abidzar Fadly 👋</h1>
+  <p><b>Application Support Engineer & Frontend Developer</b>[cite: 1]</p>
+  <p>Merging clean UI/UX with robust, production-ready operational stability.</p>
+  
+  <a href="https://bzarhere.my.id"><img src="https://img.shields.io/badge/Portfolio-bzarhere.my.id-020617?style=for-the-badge&logo=vercel"></a>
+  <a href="https://linkedin.com/in/dimasabidzarfadly"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin"></a>
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Hi, I'm **Dimas Abidzar Fadly**, a passionate **Frontend Engineer** focused on building modern, responsive, and user-friendly web applications.
+I am a software engineer focused on web architecture and operational stability[cite: 1]. With a foundation in frontend development and active experience in Level 2 Operations, I bridge the technical gap between user experience and system reliability[cite: 1]. I take a pragmatic, production-oriented approach to ensure features don't just work locally, but survive contact with real-world constraints[cite: 1].
 
-I enjoy turning ideas into clean interfaces, smooth user experiences, and scalable web products. My main focus is frontend development, but I also work with backend tools, databases, deployment workflows, and AI-assisted development to build more complete applications.
+- 🔭 Currently working as **L2 Ops** at PT. Kreasi Media Asia, isolating root causes in complex transactional flows[cite: 1].
+- 🏗️ Previously modernized enterprise platforms at **Alfamart**, migrating legacy JavaScript to a strict **Next.js & TypeScript** component architecture[cite: 1].
+- 💡 Passionate about clean code, efficient DOM manipulation, and mitigating technical debt[cite: 1].
 
-- 🎯 Focused on **Frontend Development**
-- ⚡ Building with **TypeScript, JavaScript, Next.js, and Tailwind CSS**
-- 🎨 Creating clean UI with **shadcn/ui**
-- 🧩 Working with **Supabase, PostgreSQL, and Prisma ORM**
-- 🚀 Deploying projects with **Vercel**
-- 🤖 Using **AI tools like Codex, GPT-5.5, and Gemini** to support coding, debugging, and development workflow
-- 🧠 Learning more about **clean code, performance, and scalable architecture**
+## 🛠️ Tech Stack & Tools
 
----
+- **Frontend:** JavaScript, TypeScript, React, Next.js, TailwindCSS[cite: 1]
+- **Backend & Database:** Microsoft SQL Server (SSMS)[cite: 1]
+- **Infra & Ops:** Docker, Linux[cite: 1], Log Analysis, L2/L3 Escalation Management
+- **Tools:** Git, GitHub, VS Code, Figma
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-<div align="center">
+- **L2 Ops** @ PT. Kreasi Media Asia *(Aug 2026 - Present)*[cite: 1]: Incident investigation, client-side debugging, and mitigating operational technical debt[cite: 1].
+- **Frontend Intern** @ PT. Sumber Alfaria Trijaya, Tbk *(Nov 2025 - May 2026)*[cite: 1]: Engineered and migrated the SPARTA Building system using Vanilla JavaScript and Next.js for better long-term scalability[cite: 1].
+- **Database Trainee** @ PT. Indocyber Global Teknologi *(Sep 2025 - Oct 2025)*[cite: 1]: Focused on relational database design, data querying, and performance optimization[cite: 1].
+- **UI/UX & Web Dev** @ PT. Kinema Systrans *(Feb 2024 - Jun 2024)*[cite: 1]: End-to-end product research, wireframing, and frontend implementation[cite: 1].
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/shadcn%2Fui-020617?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive%20Design-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%20Components-38BDF8?style=for-the-badge&logoColor=black" />
-
-<br />
-<br />
-
-### Backend, Database & Deployment
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,prisma,vercel" />
-
-<br />
-<br />
-
-### AI Tools
-
-<img src="https://img.shields.io/badge/Codex-020617?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GPT--5.5-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=black" />
-
-<br />
-<br />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-## 🚀 What I Build
+## 📈 GitHub Metrics
 
 <div align="center">
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Modern UI</h3>
-      <p>Clean, responsive, and user-friendly interfaces with Tailwind CSS and shadcn/ui.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Web Apps</h3>
-      <p>Interactive and scalable applications using Next.js and TypeScript.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Full-Stack Flow</h3>
-      <p>Frontend connected with Supabase, PostgreSQL, and Prisma ORM.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=dmfdzr&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Contact Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/dimasabidzarfadly">
-  <img src="https://img.shields.io/badge/LinkedIn-Dimas%20Abidzar%20Fadly-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://wa.me/6285727914053">
-  <img src="https://img.shields.io/badge/WhatsApp-085727914053-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="https://bzar-here.vercel.app">
-  <img src="https://img.shields.io/badge/Personal%20Web-bzar--here.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<a href="mailto:dimasfadly01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dimasfadly01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:020617&height=120&section=footer" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=nord&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
