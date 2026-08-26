@@ -24,7 +24,7 @@ I am a software engineer focused on web architecture and operational stability. 
 - **Infra & Ops:** Docker, Linux, Log Analysis, L2/L3 Escalation Management
 - **Tools:** Git, GitHub, VS Code, Figma
 
-## 💼 Professional Experience
+## Professional Experience
 
 - **L2 Ops** @ PT. Kreasi Media Asia *(Aug 2026 - Present)*: Incident investigation, client-side debugging, and mitigating operational technical debt.
 - **Frontend Intern** @ PT. Sumber Alfaria Trijaya, Tbk *(Nov 2025 - May 2026)*: Engineered and migrated the SPARTA Building system using Vanilla JavaScript and Next.js for better long-term scalability.
