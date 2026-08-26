@@ -34,6 +34,8 @@ I am a software engineer focused on web architecture and operational stability. 
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=nord&hide_border=true&bg_color=0D1117" width="48%" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dmfdzr&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&v=1" />
+  <br />
+  <br />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfdzr&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&langs_count=8&v=1" />
 </div>
