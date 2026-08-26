@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Dimas Abidzar Fadly 👋</h1>
+  <h1>Dimas Abidzar Fadly</h1>
   <p><b>Application Support Engineer & Web Developer</b></p>
   <p>Merging clean UI/UX with robust, production-ready operational stability.</p>
   
@@ -9,15 +9,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a software engineer focused on web architecture and operational stability. With a foundation in frontend development and active experience in Level 2 Operations, I bridge the technical gap between user experience and system reliability. I take a pragmatic, production-oriented approach to ensure features don't just work locally, but survive contact with real-world constraints.
 
-- 🔭 Currently working as **L2 Ops** at PT. Kreasi Media Asia, isolating root causes in complex transactional flows.
-- 🏗️ Previously modernized enterprise platforms at **Alfamart**, migrating legacy JavaScript to a strict **Next.js & TypeScript** component architecture.
-- 💡 Passionate about clean code, efficient DOM manipulation, and mitigating technical debt.
+- Currently working as **L2 Ops** at PT. Kreasi Media Asia, isolating root causes in complex transactional flows.
+- Previously modernized enterprise platforms at **Alfamart**, migrating legacy JavaScript to a strict **Next.js & TypeScript** component architecture.
+- Passionate about clean code, efficient DOM manipulation, and mitigating technical debt.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Frontend:** JavaScript, TypeScript, React, Next.js, TailwindCSS
 - **Backend & Database:** Microsoft SQL Server (SSMS)
