@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Dimas Abidzar Fadly 👋</h1>
-  <p><b>Application Support Engineer & Frontend Developer</b></p>
+  <p><b>Application Support Engineer & Web Developer</b></p>
   <p>Merging clean UI/UX with robust, production-ready operational stability.</p>
   
   <a href="https://bzarhere.my.id"><img src="https://img.shields.io/badge/Portfolio-bzarhere.my.id-020617?style=for-the-badge&logo=vercel"></a>
